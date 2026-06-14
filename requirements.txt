@@ -1,0 +1,8 @@
+# Discord bot library
+discord.py>=2.3.2
+
+# Async HTTP client for calling the LM Studio API
+aiohttp>=3.9.0
+
+# .env file support for secrets (DISCORD_TOKEN, LM_STUDIO_TOKEN, etc.)
+python-dotenv>=1.0.0
