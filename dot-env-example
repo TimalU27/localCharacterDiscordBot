@@ -1,0 +1,17 @@
+# Your Discord bot token (from https://discord.com/developers/applications)
+DISCORD_TOKEN=
+
+# LM Studio base URL — default is localhost:1234 when running locally
+# default: http://localhost:1234
+LM_STUDIO_URL=
+
+# LM Studio uses a dummy token by default; change if you've set one
+# default: lm-studio
+LM_STUDIO_TOKEN=
+
+# The model identifier shown in LM Studio (e.g. "mistral-7b-instruct")
+LM_MODEL=qwen3.5-2b
+
+# Name of the system prompt file
+# default: system_prompt.txt
+SYSTEM_PROMPT = 
